@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Aditya
+- 👀 I’m interested in any problem solving skills.
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me - adityanagofficial@outlook.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a knack for turning my favorite recipes into data visualizations, blending my passion for cooking with my skills as a data analyst!
